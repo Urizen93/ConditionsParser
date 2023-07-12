@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ConditionsParser.FParsec", "ConditionsParser.FParsec\ConditionsParser.FParsec.fsproj", "{D64687E9-1828-4AFE-BC6A-8B8652B6BE3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConditionsParser.LanguageExtParsec", "ConditionsParser.LanguageExtParsec\ConditionsParser.LanguageExtParsec.csproj", "{10CAA5B1-C792-4ABE-BECA-DF5737A61C0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D64687E9-1828-4AFE-BC6A-8B8652B6BE3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D64687E9-1828-4AFE-BC6A-8B8652B6BE3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D64687E9-1828-4AFE-BC6A-8B8652B6BE3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D64687E9-1828-4AFE-BC6A-8B8652B6BE3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10CAA5B1-C792-4ABE-BECA-DF5737A61C0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10CAA5B1-C792-4ABE-BECA-DF5737A61C0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10CAA5B1-C792-4ABE-BECA-DF5737A61C0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10CAA5B1-C792-4ABE-BECA-DF5737A61C0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
